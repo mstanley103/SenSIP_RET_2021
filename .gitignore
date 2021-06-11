@@ -1,0 +1,9 @@
+IntroductoryMLCourse/Jupyter/.ipynb_checkpoints/*
+IntroductoryMLCourse/Jupyter/*.whl
+IntroductoryMLCourse/Jupyter/xxd.exe
+IntroductoryMLCourse/Embedded/Arduino/*/.cproject
+IntroductoryMLCourse/Embedded/Arduino/*/.project
+IntroductoryMLCourse/Embedded/Arduino/*/.settings
+IntroductoryMLCourse/Embedded/Arduino/*/spec.d
+
+
