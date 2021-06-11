@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mstanley103/SenSIP_RET_2021/HEAD)
+
 Introduction:
 
 This repository contains materials for relating to the embedded machine learning content
