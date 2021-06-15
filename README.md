@@ -1,4 +1,4 @@
-Click on the Binder Launch button to access this file system in Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mstanley103/SenSIP_RET_2021/HEAD)
+Click on the Launch Binder button to access this file system in Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mstanley103/SenSIP_RET_2021/HEAD)
 
 <b>Introduction</b>
 
