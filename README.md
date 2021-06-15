@@ -1,6 +1,6 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mstanley103/SenSIP_RET_2021/HEAD)
+Click on the Binder Launch button to access this file system in Binder [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mstanley103/SenSIP_RET_2021/HEAD)
 
-Introduction:
+<b>Introduction</b>
 
 This repository contains materials for relating to the embedded machine learning content
 included in the 2021 Arizona State University RET program.
